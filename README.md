@@ -22,3 +22,5 @@ Website: https://kino.caretas.club
 * Discover movies through keywords
 * Get movie/episode information
 * And a lot more
+
+.
